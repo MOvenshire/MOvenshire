@@ -8,3 +8,5 @@ Howdy! My name is Marissa Ovenshire and I am currently an honors computer engine
 **Organizations**
 - Society of Women Engineers 
 - Class Councils 
+
+Note: repositories for current classes are not public
